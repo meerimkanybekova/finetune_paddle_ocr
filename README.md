@@ -19,7 +19,7 @@ This project provides a comprehensive guide and codebase for fine-tuning the OCR
 
 ## Error Handling
 
-If you encounter any issues during the fine-tuning process, please refer to our [Error Handling Guide](https://github.com/meerimkanybekova/finetune_paddle_ocr/blob/main/link-to-your-error-handling-guide). This guide provides solutions to common errors and troubleshooting tips.
+If you encounter any issues during the fine-tuning process, please refer to our [Error Handling Guide](https://github.com/meerimkanybekova/finetune_paddle_ocr/blob/main/error_handling.md). This guide provides solutions to common errors and troubleshooting tips.
 
 ## Acknowledgments
 
