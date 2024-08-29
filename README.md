@@ -1,5 +1,7 @@
 # Fine-Tuning OCR Model with PaddleOCR
 
+![Alt Text](https://github.com/meerimkanybekova/finetune_paddle_ocr/blob/main/documentation/get_your_OCR_model_finally_customized.gif)
+
 ## Quick Start
 
 For a quick start, use the following link:
