@@ -6,11 +6,11 @@
 
 For a quick start, use the following link:
 
-[Colab Notebook](https://colab.research.google.com/drive/1tCb-oPgKFwTtDG_ggEDoZVlY7OlJuOR7?usp=sharing)
+[Colab Notebook](https://colab.research.google.com/drive/1tCb-_oPgKFxWTDG_ggEDoZVIy7O1uOR7?usp=sharing)
 
 ## Want to train on your data?
 
-[Annotation tool for OCR](https://colab.research.google.com/drive/1tCb-oPgKFwTtDG_ggEDoZVlY7OlJuOR7?usp=sharing)
+[Annotation tool for OCR](https://github.com/PFCCLab/PPOCRLabel)
 
 ## Overview
 
