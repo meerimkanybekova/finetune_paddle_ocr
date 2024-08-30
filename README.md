@@ -8,6 +8,10 @@ For a quick start, use the following link:
 
 [Colab Notebook](https://colab.research.google.com/drive/1tCb-oPgKFwTtDG_ggEDoZVlY7OlJuOR7?usp=sharing)
 
+## Want to train on your data?
+
+[Annotation tool for OCR](https://colab.research.google.com/drive/1tCb-oPgKFwTtDG_ggEDoZVlY7OlJuOR7?usp=sharing)
+
 ## Overview
 
 This project provides a comprehensive guide and codebase for fine-tuning the OCR model using PaddleOCR. Whether you're an experienced developer or a newcomer, this repository aims to simplify the fine-tuning process, allowing you to achieve optimal results with minimal effort.
